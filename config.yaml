@@ -1,15 +1,16 @@
 services:
-  - name: "My Pages"
+  - name: "Websites"
     api:
-      - url: "https://blog.ch3nyang.top"
-      - url: "https://file.ch3nyang.top"
-      - url: "https://til.ch3nyang.top"
-      - url: "https://mind.ch3nyang.top"
-  - name: "My Services"
+      - url: "https://www.chinahighlights.com/"
+      - url: "https://www.globalhighlights.com/"
+      - url: "https://www.japanhighlights.com/"
+      - url: "https://www.highlightstravel.com/"
+  - name: "Servers"
     health:
-      - url: "https://docker-registry.ch3nyang.top/health"
-      - url: "https://2024.ch3nyang.top/health"
+      - url: "https://p9axztuwd7x8a7.mycht.cn/whatsapp_server/wa_server_test"
+      - url: "https://p9axztuwd7x8a7.mycht.cn/mail-server/service-mail/service_mail_test"
     api:
-      - url: "https://docker-registry.ch3nyang.top/v2"
-        status_code: 401
-      - url: "https://2024.ch3nyang.top"
+      - url: "https://wai-01-qq4qmtq7wc9he4.chinahighlights.cn/api/v1/channels/sessions"
+      - url: "https://wai-02-qq4qmtq7wc9he4.chinahighlights.cn/api/v1/channels/sessions"
+      - url: "https://wai-03-u2xlvlxf6jhm42.chinahighlights.cn/api/v1/channels/sessions"
+      - url: "https://wai-04-qnwgv2vpfp7o4.chinahighlights.cn/api/v1/channels/sessions"
