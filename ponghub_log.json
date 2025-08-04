@@ -2,51 +2,51 @@
   "Servers": {
     "service_history": [
       {
-        "time": "2025-08-04T19:43:43Z",
+        "time": "2025-08-04T20:31:29Z",
         "online": "all"
       }
     ],
     "ports": {
       "https://p9axztuwd7x8a7.mycht.cn/mail-server/service-mail/service_mail_test": [
         {
-          "time": "2025-08-04T19:43:44Z",
+          "time": "2025-08-04T20:31:30Z",
           "online": "all",
-          "response_time": 274
+          "response_time": 315
         }
       ],
       "https://p9axztuwd7x8a7.mycht.cn/whatsapp_server/wa_server_test": [
         {
-          "time": "2025-08-04T19:43:43Z",
+          "time": "2025-08-04T20:31:29Z",
           "online": "all",
-          "response_time": 1051
+          "response_time": 1220
         }
       ],
       "https://wai-01-qq4qmtq7wc9he4.chinahighlights.cn/api/v1/channels/sessions": [
         {
-          "time": "2025-08-04T19:43:45Z",
+          "time": "2025-08-04T20:31:30Z",
           "online": "all",
-          "response_time": 1069
+          "response_time": 1173
         }
       ],
       "https://wai-02-qq4qmtq7wc9he4.chinahighlights.cn/api/v1/channels/sessions": [
         {
-          "time": "2025-08-04T19:43:46Z",
+          "time": "2025-08-04T20:31:31Z",
           "online": "all",
-          "response_time": 1033
+          "response_time": 1758
         }
       ],
       "https://wai-03-u2xlvlxf6jhm42.chinahighlights.cn/api/v1/channels/sessions": [
         {
-          "time": "2025-08-04T19:43:47Z",
+          "time": "2025-08-04T20:31:33Z",
           "online": "all",
-          "response_time": 1388
+          "response_time": 953
         }
       ],
       "https://wai-04-qnwgv2vpfp7o4.chinahighlights.cn/api/v1/channels/sessions": [
         {
-          "time": "2025-08-04T19:43:48Z",
+          "time": "2025-08-04T20:31:34Z",
           "online": "all",
-          "response_time": 1295
+          "response_time": 1460
         }
       ]
     }
@@ -54,37 +54,37 @@
   "Websites": {
     "service_history": [
       {
-        "time": "2025-08-04T19:43:42Z",
+        "time": "2025-08-04T20:31:28Z",
         "online": "all"
       }
     ],
     "ports": {
       "https://www.chinahighlights.com/": [
         {
-          "time": "2025-08-04T19:43:42Z",
+          "time": "2025-08-04T20:31:28Z",
           "online": "all",
-          "response_time": 116
+          "response_time": 164
         }
       ],
       "https://www.globalhighlights.com/": [
         {
-          "time": "2025-08-04T19:43:43Z",
+          "time": "2025-08-04T20:31:28Z",
           "online": "all",
-          "response_time": 128
+          "response_time": 107
         }
       ],
       "https://www.highlightstravel.com/": [
         {
-          "time": "2025-08-04T19:43:43Z",
+          "time": "2025-08-04T20:31:28Z",
           "online": "all",
-          "response_time": 460
+          "response_time": 192
         }
       ],
       "https://www.japanhighlights.com/": [
         {
-          "time": "2025-08-04T19:43:43Z",
+          "time": "2025-08-04T20:31:28Z",
           "online": "all",
-          "response_time": 169
+          "response_time": 183
         }
       ]
     }
