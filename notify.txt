@@ -1,2 +1,0 @@
-Servers
-	https://wai-03-u2xlvlxf6jhm42.chinahighlights.cn/api/v1/channels/sessions is unavailable.
